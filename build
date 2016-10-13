@@ -1,0 +1,2 @@
+g++ tollProcessing.cpp -g
+./a.out
